@@ -63,4 +63,4 @@ The application will be running on `http://localhost:3000`.
 
 ## Author
 
-[Your Name] - [Your Email] - [Your LinkedIn Profile]
+[Cosmas kibet] - [ckibet105@gmail.com] - [Cosmas Kibet]
